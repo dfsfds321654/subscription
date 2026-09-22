@@ -1,2 +1,1 @@
-# subscription
-X-Git Pro
+22/09/2026
